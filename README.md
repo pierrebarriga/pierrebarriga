@@ -10,8 +10,8 @@ I am a **Political Analytics Graduate student at Columbia University**. My progr
 ## What Domains I Could Work Well in: 
 * Technical Product Management & Analytics
 * Political Consulting (Voter Turnout & Election Forecasting)
-* Workforce Analytics & Strategy
 * Advertising, Media, and Business Operations
+* Workforce Analytics & Strategy
 
 ## 🔭 I’m currently working on ...
 * Creating RAG Pipelines to Voter Registration Lists
