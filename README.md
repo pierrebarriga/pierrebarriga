@@ -15,8 +15,7 @@ I am a **Political Analytics Graduate student at Columbia University**. My progr
 
 ## 🔭 I’m currently working on ...
 * Refining Text to SQL Pipelines on Voter Registration Lists
-* Building Social Networks Based on Co-Sponsorships of Bills in the Senate 
-* Using Random Forests to Analyze Public Sentiment on Election Integrity on Surveys 
+* Using Random Forests to Analyze Public Sentiment on Election Integrity on Surveys
 
 📫 **Connect with Me on LinkedIn!** [https://www.linkedin.com/in/jeanbarriga/] 
 
