@@ -15,7 +15,7 @@ I am a **Political Analytics Graduate student at Columbia University**. My progr
 
 ## 🔭 I’m currently working on ...
 * Refining Text to SQL Pipelines on Voter Registration Lists
-* Using Random Forests to Analyze Public Sentiment on Election Integrity on Surveys
+* Using Google AI Studio to build apps for Grad students!
 
 📫 **Connect with Me on LinkedIn!** [https://www.linkedin.com/in/jeanbarriga/] 
 
