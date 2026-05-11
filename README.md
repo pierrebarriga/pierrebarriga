@@ -1,5 +1,5 @@
 # Hi👋. I'm Jean Pierre (JP). 
-I am a **Political Analytics Graduate student at Columbia University**. My program focuses on the intersection of data science and social science. I bridge the gap between social science theory and data science, modeling complex human behaviors, motivations, and attitudes through a quantitative lens. Previously, I was a **Data Product Manager at Citibank**. I am currently seeking full-time opportunities as a **Data Scientist** or **Data Science Product Manager** starting May 2026.
+I am a **Political Analytics Graduate student at Columbia University**. I bridge the gap between social science theory and data science, modeling complex human behaviors, motivations, and attitudes through a quantitative lens. Previously, I was a **Data Product Manager at Citibank**. I am currently seeking full-time opportunities as a **Data Scientist** or **Data Science Product Manager** starting May 2026.
 
 ## Technical Experience 
 * Python (2+ Years of Experience)
@@ -10,12 +10,11 @@ I am a **Political Analytics Graduate student at Columbia University**. My progr
 ## What Domains I Could Work Well in: 
 * Technical Product Management & Analytics
 * Political Consulting (Voter Turnout & Election Forecasting)
-* Advertising, Media, and Business Operations
-* Workforce Analytics & Strategy
+* Advertising, Media, and Business Analytics
 
 ## 🔭 I’m currently working on ...
+* Building Semantic Search Products on Bill Titles and Bill Text 
 * Refining Text to SQL Pipelines on Voter Registration Lists
-* Using Google AI Studio to build apps for Grad students!
 
 📫 **Connect with Me on LinkedIn!** [https://www.linkedin.com/in/jeanbarriga/] 
 
