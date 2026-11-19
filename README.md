@@ -6,6 +6,7 @@ I am a **Political Analytics Graduate student at Columbia University**. I bridge
 * SQL (3+ Years of Experience)
 * R (2+ Years of Experience)
 * Tableau (3+ Years of Experience)
+* Cypher & Neo4J (1+ Years of Experience)  
 
 ## What Domains I Could Work Well in: 
 * Technical Product Management & Product Analytics
